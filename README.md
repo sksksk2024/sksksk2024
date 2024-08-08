@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sksksk2024
 - 👀 I’m interested in frontend code
 - 🌱 I’m currently learning tailwind css and js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on every project that requires my help!
 - 📫 How to reach me: instagram(@alextvop2016)
 - 😄 Pronouns: him/he/his
 - ⚡ Fun fact: I'm a pro calisthenics athlete!
