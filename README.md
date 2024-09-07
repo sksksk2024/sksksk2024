@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sksksk2024
-- 👀 I’m interested in frontend code
-- 🌱 I’m currently learning tailwind css and js
+- 👀 I’m interested in frontend code(and backend code soon after mastering React)
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on every project that requires my help!
 - 📫 How to reach me: instagram(@alextvop2016)
 - 😄 Pronouns: him/he/his
