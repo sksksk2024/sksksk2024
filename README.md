@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sksksk2024">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;React+%2B+Next.js+%2B+TypeScript+Enthusiast;Building+cool+stuff+with+Framer+Motion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;React+%2B+Next.js+%2B+TypeScript+Enthusiast;Building+cool+stuff+with+Framer+Motion" alt="Typing SVG" />
   </a>
 </p>
 
