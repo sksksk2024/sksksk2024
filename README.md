@@ -47,4 +47,4 @@
 ---
 
 ### 🎯 Keep Building, Keep Growing!
-*"Striving for excellence in web development & pushing my limits in calisthenics!"* 💪
+*"Striving for excellence in web development & pushing my limits in calisthenics! Calithenics Power!"* 💪
