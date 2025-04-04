@@ -27,16 +27,7 @@
 ## 📫 How to Reach Me
 - 📸 **Instagram:** [@alextvop2016](https://instagram.com/alextvop2016)
 - 💻 **Portfolio:** My Personal Website Is In Building State
-- ✉️ **Email:** Email Business Soon
-
----
-
-## 📌 Featured Projects
-Here are some of my best projects:  
-
-🚀 [**Project 1**](#) - Soon 
-🎨 [**Project 2**](#) - Soon  
-📊 [**Project 3**](#) - Soon  
+- ✉️ **Email:** Email Business Soon 
 
 ---
 
