@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Alex</h1>
 
-<p align="center">
-  <a href="https://github.com/sksksk2024">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;⚛️+React+%2B+Next.js+%2B+TypeScript+Enthusiast" alt="Typing SVG">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer" />
 
 
 
