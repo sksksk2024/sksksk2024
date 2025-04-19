@@ -11,7 +11,6 @@
 - 🌱 Currently mastering **Next.js + TypeScript + Prisma + Zod + Framer Motion**
 - 💡 Always exploring **new technologies & building engaging user experiences**
 - 💞️ Open to collaborating on innovative projects!
-- ⚡ Fun fact: I'm a **pro calisthenics athlete!** 🏋️‍♂️
 
 ---
 
