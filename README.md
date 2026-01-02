@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 👀 Passionate about **full-stack web development**
-- 🌱 Currently mastering **Next.js + TypeScript + Prisma + Zod + Framer Motion**
+- 🌱 Currently mastering **Lua**
 - 💡 Always exploring **new technologies & building engaging user experiences**
 - 💞️ Open to collaborating on innovative projects!
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,zod,framer-motion,lua,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,zod,framer-motion,lua, luau,git,github,vscode" />
 </p>
 
 ---
