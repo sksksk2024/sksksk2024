@@ -32,11 +32,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sksksk2024&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sksksk2024&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
 <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksksk2024&layout=compact&theme=radical" />
 </p>
