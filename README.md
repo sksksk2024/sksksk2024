@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-- 👀 Passionate about **full-stack web development**
-- 🌱 Currently mastering **Lua**
+- 👀 Passionate about **full-stack and game dev**
+- 🌱 Currently mastering **AI**
 - 💡 Always exploring **new technologies & building engaging user experiences**
 - 💞️ Open to collaborating on innovative projects!
 
@@ -22,7 +22,7 @@
 ---
 
 ## 📫 How to Reach Me
-- 📸 **Instagram:** [@alextvop2016](https://instagram.com/alextvop2016)
+- 📸 **Instagram:** [@h1_cota_alexandru_h1](https://www.instagram.com/h1_cota_alexandru_h1)
 - 💻 **Portfolio:** My Personal Website Is In Building State
 - ✉️ **Email:** Email Business Soon 
 
