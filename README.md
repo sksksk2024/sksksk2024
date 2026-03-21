@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 👀 Passionate about **full-stack and game dev**
-- 🌱 Currently mastering **AI**
+- 🌱 Currently mastering **Cold Calls**
 - 💡 Always exploring **new technologies & building engaging user experiences**
 - 💞️ Open to collaborating on innovative projects!
 
